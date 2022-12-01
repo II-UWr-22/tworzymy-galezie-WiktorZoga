@@ -1,1 +1,52 @@
 Linux zoga 5.15.0-56-generic #62-Ubuntu SMP Tue Nov 22 19:54:14 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        7812168 kB
+MemFree:         3818964 kB
+MemAvailable:    6298772 kB
+Buffers:          103592 kB
+Cached:          2774180 kB
+SwapCached:            0 kB
+Active:          1173604 kB
+Inactive:        2237476 kB
+Active(anon):       2732 kB
+Inactive(anon):   756064 kB
+Active(file):    1170872 kB
+Inactive(file):  1481412 kB
+Unevictable:      188680 kB
+Mlocked:              16 kB
+SwapTotal:       2002940 kB
+SwapFree:        2002940 kB
+Dirty:                20 kB
+Writeback:             0 kB
+AnonPages:        722032 kB
+Mapped:           347412 kB
+Shmem:            233884 kB
+KReclaimable:     104996 kB
+Slab:             241352 kB
+SReclaimable:     104996 kB
+SUnreclaim:       136356 kB
+KernelStack:        9456 kB
+PageTables:        16740 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5909024 kB
+Committed_AS:    4643496 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       43604 kB
+VmallocChunk:          0 kB
+Percpu:             9184 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      316800 kB
+DirectMap2M:     6694912 kB
+DirectMap1G:     2097152 kB
